@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning frontend web development <br> I'm working on a web app <br>
+I'm currently learning frontend web development <br> I'm working on a web app <br>I am currently in second year of B.tech in computer Science Artificial Intelligence
 
 
 ## 🌐 Socials:
