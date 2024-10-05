@@ -15,4 +15,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Akrati00&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+![Visitor Count](https://profile-counter.glitch.me/{Akrati00}/count.svg)
+
 
