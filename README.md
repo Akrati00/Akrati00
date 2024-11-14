@@ -14,10 +14,10 @@
 
 # 🎉 Hacktoberfest 2024 Badges
 
-[![Hacktoberfest Badge 1](https://www.holopin.io/hacktoberfest2024/userbadge/cm23nmxhi46430clans28t0p3)]
-[![Hacktoberfest Badge 2](https://www.holopin.io/hacktoberfest2024/userbadge/cm279ysx797890cl3y1dqlxcj)]
-[![Hacktoberfest Badge 3](https://www.holopin.io/hacktoberfest2024/userbadge/cm2ynsxsf242150cjyauo6mx53)]
-[![Hacktoberfest Badge 4](https://www.holopin.io/hacktoberfest2024/userbadge/cm2ynv1jk252350cjyus7bj4m0)]
+[![Hacktoberfest Badge 1](your_badge_link_1)](https://www.holopin.io/hacktoberfest2024/userbadge/cm23nmxhi46430clans28t0p3)
+[![Hacktoberfest Badge 2](your_badge_link_2)](https://www.holopin.io/hacktoberfest2024/userbadge/cm279ysx797890cl3y1dqlxcj)
+[![Hacktoberfest Badge 3](your_badge_link_3)](https://www.holopin.io/hacktoberfest2024/userbadge/cm2ynsxsf242150cjyauo6mx53)
+[![Hacktoberfest Badge 4](your_badge_link_4)](https://www.holopin.io/hacktoberfest2024/userbadge/cm2ynv1jk252350cjyus7bj4m0)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Akrati00&theme=radical&no-frame=false&no-bg=true&margin-w=4)
