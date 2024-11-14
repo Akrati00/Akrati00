@@ -14,10 +14,12 @@
 
 # 🎉 Hacktoberfest 2024 Badges
 
-[![Hacktoberfest Badge 1](![image](https://github.com/user-attachments/assets/5f64aeba-c4dc-4ced-ad39-0850f1478153)](https://www.holopin.io/hacktoberfest2024/userbadge/cm23nmxhi46430clans28t0p3)
-[![Hacktoberfest Badge 2](![image](https://github.com/user-attachments/assets/caa9e04b-4975-4aaa-b9b1-a3b84f7e7416)](https://www.holopin.io/hacktoberfest2024/userbadge/cm279ysx797890cl3y1dqlxcj)
-[![Hacktoberfest Badge 3](![image](https://github.com/user-attachments/assets/7b77fb8d-1137-4171-abc7-2340ddce1353)](https://www.holopin.io/hacktoberfest2024/userbadge/cm2ynsxsf242150cjyauo6mx53)
-[![Hacktoberfest Badge 4](![image](https://github.com/user-attachments/assets/79c2bb5c-6cc8-4032-b07a-4a5c96ffbadc)](https://www.holopin.io/hacktoberfest2024/userbadge/cm2ynv1jk252350cjyus7bj4m0)
+[![Hacktoberfest Badge 1](https://github.com/user-attachments/assets/5f64aeba-c4dc-4ced-ad39-0850f1478153)](https://www.holopin.io/hacktoberfest2024/userbadge/cm23nmxhi46430clans28t0p3)
+[![Hacktoberfest Badge 2](https://github.com/user-attachments/assets/caa9e04b-4975-4aaa-b9b1-a3b84f7e7416)](https://www.holopin.io/hacktoberfest2024/userbadge/cm279ysx797890cl3y1dqlxcj)
+[![Hacktoberfest Badge 3](https://github.com/user-attachments/assets/7b77fb8d-1137-4171-abc7-2340ddce1353)](https://www.holopin.io/hacktoberfest2024/userbadge/cm2ynsxsf242150cjyauo6mx53)
+[![Hacktoberfest Badge 4](https://github.com/user-attachments/assets/18d81230-7372-4218-b1ad-df74991b1b52)](https://www.holopin.io/hacktoberfest2024/userbadge/cm2ynv1jk252350cjyus7bj4m0)
+
+
 
 
 ## 🏆 GitHub Trophies
