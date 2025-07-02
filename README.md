@@ -1,5 +1,5 @@
 # 💫 About Me:
-📍Curently learning frontend web development(learning React js) and Data Structures and Algorithm <br> 📍working on a web application <br>📍I am currently in second year of B.tech in computer Science Artificial Intelligence
+Nothing about me
 
 
 ## 🌐 Socials:
